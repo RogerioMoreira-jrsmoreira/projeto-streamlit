@@ -1,2 +1,2 @@
-# Projeto Python com Steamlit
+# Projeto Python com Streamlit
 Meu primeiro sistema teste
